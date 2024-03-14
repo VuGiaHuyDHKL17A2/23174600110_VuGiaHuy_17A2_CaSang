@@ -1,0 +1,5 @@
+a1, b1, c1 = map(float, input("Nhập hệ số a1, b1, c1: ").split())
+a2, b2, c2 = map(float, input("Nhập hệ số a2, b2, c2: ").split())
+x = (c1 * b2 - c2 * b1) / (a1 * b2 - a2 * b1)   
+y = (a1 * c2 - a2 * c1) / (a1 * b2 - a2 * b1) 
+print("Kết quả của hệ phương trình trên là: ({:.2f},{:.2f})".format(x,y))

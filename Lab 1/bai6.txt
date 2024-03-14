@@ -1,0 +1,7 @@
+Nhập toạ độ của vecto a :1 3 
+Nhập toạ độ của vecto b :4 6
+Phép cộng vecto a+b là: (5.0, 9.0)
+Phép trừ vecto a-b là: (-3.0, -3.0)
+Độ dài của vecto a là:  3.1622776601683795
+Độ dài của vecto b là:  7.211102550927978
+Cosin góc hợp giữa hai vecto a và b là: 1.18

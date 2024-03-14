@@ -1,0 +1,7 @@
+Nhập số lượng sách: 1
+Nhập mã sách: 23174600110
+Nhập tên sách: kamen rider ex-aid
+Nhập tên tác giả: khong biet 
+Nhập năm xuất bản: 2017
+Thư viện ĐHKTKTCN có 1 sách kamen rider ex-aid với mã số 23174600110
+Cuốn sách của tác giả khong biet  được xuất bản vào năm 2017

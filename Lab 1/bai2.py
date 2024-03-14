@@ -1,0 +1,7 @@
+so_luong_sach = int(input("Nhập số lượng sách: "))
+ma_sach = int(input("Nhập mã sách: "))
+ten_sach = str(input("Nhập tên sách: "))
+tac_gia = str(input("Nhập tên tác giả: "))
+nam_xuat_ban = str(input("Nhập năm xuất bản: ")) 
+print("Thư viện ĐHKTKTCN có {} sách {} với mã số {}".format(so_luong_sach,ten_sach,ma_sach))
+print("Cuốn sách của tác giả {} được xuất bản vào năm {}".format(tac_gia,nam_xuat_ban))

@@ -1,0 +1,3 @@
+Nhập hệ số a1, b1, c1: 1 3 5
+Nhập hệ số a2, b2, c2: 2 4 6
+Kết quả của hệ phương trình trên là: (-1.00,2.00)
