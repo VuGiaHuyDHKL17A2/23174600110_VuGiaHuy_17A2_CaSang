@@ -1,0 +1,31 @@
+- Bài 1: đúng
+Điểm bài tập: 1.0 
+
+- Bài 2: đúng
+Điểm bài tập: 1.0 
+
+- Bài 3: đúng
+Điểm bài tập: 
+
+- Bài 4: đúng
+Điểm bài tập: 1.0 
+
+- Bài 5: trống
+Điểm bài tập: 0
+
+- Bài 6: nếu sử dụng dấu >=, trong trường hợp 2 số bằng nhau thì đâu là số lớn thứ hai?
+Điểm bài tập: 0.75
+
+- Bài 7: đúng
+Điểm bài tập: 1.0 
+
+- Bài 8: đúng
+Điểm bài tập: 1.0 
+
+- Bài 9: đúng
+Điểm bài tập: 1.0 
+
+- Bài 10: đúng
+Điểm bài tập: 1.0
+
+Tổng điểm bài tập lab 2: 8.75
