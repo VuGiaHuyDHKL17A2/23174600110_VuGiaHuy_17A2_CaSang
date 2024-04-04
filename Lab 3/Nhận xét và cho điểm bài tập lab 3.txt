@@ -1,0 +1,26 @@
+- Bài 1: sử dụng while, kiến thức vượt ngoài kiến thức lab 1, 2, 3
+a) đúng
+b) đúng
+c) đúng
+d) đúng
+Điểm bài tập: 1.5
+
+- Bài 2: 
+a) đúng
+b) đúng
+Điểm bài tập: 2.0
+
+- Bài 3: Đoạn Code giống y hệt bài của bạn Trương Thị Thu Hoài
+a) đúng
+b) đúng 
+c) đúng
+d) đúng
+e) đúng
+Điểm bài tập: 5.0 : 2 = 2.5
+
+- Bài 4:
+a) trống
+b) trống
+Điểm bài tập: 0
+
+Tổng điểm bài tập lab 3: 5.0
